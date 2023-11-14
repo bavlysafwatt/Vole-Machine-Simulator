@@ -1,4 +1,4 @@
-Register(): 03
+Register(0): 03
 Register(1): 02
 Register(2): 02
 Register(3): 12
