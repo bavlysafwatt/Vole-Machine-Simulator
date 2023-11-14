@@ -1,0 +1,8 @@
+#ifndef VOLE_MACHINE_SIMULATOR_BYTE_H
+#define VOLE_MACHINE_SIMULATOR_BYTE_H
+
+struct Byte{
+    char nibble[2];
+};
+
+#endif //VOLE_MACHINE_SIMULATOR_BYTE_H
